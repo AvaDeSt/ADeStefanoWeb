@@ -1,0 +1,7 @@
+<html>
+<head>
+<title>website title</title>
+</head>
+<body>
+<br>
+<h1><center><front color="#660066> Welcome to my Web Page
